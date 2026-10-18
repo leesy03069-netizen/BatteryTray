@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.log
+status.json
+*-render.json
+devices.json
+release-check/
+*-check.png

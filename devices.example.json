@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "poll_seconds": 3,
+  "devices": [
+    {
+      "role": "mouse",
+      "name": "ATK A9 Plus 鼠标",
+      "vid": "373B",
+      "pid": "10C9",
+      "usage_page": "FF02",
+      "protocol": "compx_mouse"
+    },
+    {
+      "role": "keyboard",
+      "name": "键盘 · F87 Pro（用户标注）",
+      "vid": "3554",
+      "pid": "FA09",
+      "usage_page": "FF02",
+      "protocol": "beiying_keyboard"
+    }
+  ]
+}
